@@ -1,2 +1,2 @@
 # Hunger-Strike
-## Online Food Delverying Website
+## Online Food Delvering Website
